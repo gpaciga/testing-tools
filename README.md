@@ -20,6 +20,7 @@ I keep hearing about new or interesting tools and often forget about them, lose 
 * [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Chrome extension for checking accessibility
 * [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Chrome extension for checking accessibility (good to have more than one, they flag different things!)
 * [Colour Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll) - filters rendered page
+* [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg) - filter to simulate colour blindness of different types
 
 
 # APIs / other networking
