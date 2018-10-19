@@ -28,7 +28,6 @@ I keep hearing about new or interesting tools and often forget about them, lose 
 * [Charles Proxy](https://www.charlesproxy.com/) - analyze network traffic outside a browser
 * [Postman](https://www.getpostman.com/)
 * [Request mapper](http://requestmap.webperf.tools/) - visualize requests originating from a site
-* [Restful Booker](https://restful-booker.herokuapp.com/) - playground for experimenting
 
 
 # Misc automation tools
@@ -80,6 +79,11 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [TestNote.io](http://testnote.io/) - note taking tool
 * [TestBuddy](https://testbuddy.co/features) - note taking tool
 * [Trello](https://trello.com) - task manager
+
+# Practice
+
+* [Restful Booker](https://restful-booker.herokuapp.com/) - playground for experimenting
+* [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 
 # Community
