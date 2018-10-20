@@ -80,10 +80,12 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [TestBuddy](https://testbuddy.co/features) - note taking tool
 * [Trello](https://trello.com) - task manager
 
+
 # Practice
 
 * [Restful Booker](https://restful-booker.herokuapp.com/) - playground for experimenting
 * [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+* [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/)
 
 
 # Community
