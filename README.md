@@ -41,22 +41,20 @@ I keep hearing about new or interesting tools and often forget about them, lose 
 * [Regexper](https://regexper.com/) - visualize regular expressions
 
 
-# Test ideas
-
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
-* [TestSphere](https://www.ministryoftesting.com/dojo/series/testsphere)
-
-
 # Command line
 
-* grep
-* awk
-* sed
-* cut
-* paste
-* head
-* tail (especially with -f on logs)
-* curl
+Bread and butter of working on the command line, so much so that I forget I ever didn't know about them. Worth looking up a tutorial for.
+
+* grep - search for text in a file, line by line
+* awk - operate on columns in text files
+* sed - text editor, useful for search and replace based on regex
+* tr - single character search and replace
+* cut - choose which columns of a file to print
+* paste - write two text files to screen side by side
+* head - print the first few lines of a file
+* tail - print the last lines of a file, with `-f` it watches for new lines
+* curl - get URLs
+* [jq](https://stedolan.github.io/jq/) - parse and manipulate JSON files
 
 
 # Language-specific
@@ -79,6 +77,12 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [TestNote.io](http://testnote.io/) - note taking tool
 * [TestBuddy](https://testbuddy.co/features) - note taking tool
 * [Trello](https://trello.com) - task manager
+
+
+# Test ideas
+
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
+* [TestSphere](https://www.ministryoftesting.com/dojo/series/testsphere)
 
 
 # Practice
