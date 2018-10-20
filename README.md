@@ -105,5 +105,5 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [Software Testing Conferences](https://testingconferences.org/)
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
 * [Questions to ask testers](https://gist.github.com/smariapena/b551d1c0e74483c09df5259c35c779c1)
-
+* [Mindmap for interviewing testers](https://danashby.co.uk/2015/12/07/how-i-interview-testers/)
 
