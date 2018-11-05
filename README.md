@@ -30,12 +30,14 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Charles Proxy](https://www.charlesproxy.com/) - analyze network traffic outside a browser
 * [Postman](https://www.getpostman.com/)
 * [Request mapper](http://requestmap.webperf.tools/) - visualize requests originating from a site
+* [htaccess tester](https://htaccess.madewithlove.be/)
 
 
 ## Misc automation tools
 
 * [Pact](https://docs.pact.io/) - contract testing
 * [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
+* [Locust](https://locust.io/) - python based performance testing / load testing
 
 
 ## Analysis tools / visualizations
