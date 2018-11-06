@@ -94,7 +94,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [Restful Booker](https://restful-booker.herokuapp.com/) - playground for experimenting
 * [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - refactoring exercise
 * [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - little abstract apps to explore
-
+* [Testers Playground](http://testersplayground.herokuapp.com/) - challenges for testers
 
 ## Community
 
