@@ -13,6 +13,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [a11y.css](https://ffoodd.github.io/a11y.css/)
 * [Colour contrast checker](https://webaim.org/resources/contrastchecker/) - for specific colour combos
 
+
 ### Chrome extensions
 
 * [JSON formatter](https://github.com/callumlocke/json-formatter) - automatically format JSON
@@ -38,6 +39,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Pact](https://docs.pact.io/) - contract testing
 * [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
 * [Locust](https://locust.io/) - python based performance testing / load testing
+* [Backstop.js](https://github.com/garris/BackstopJS) - visual regression tests
 
 
 ## Analysis tools / visualizations
@@ -95,6 +97,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - refactoring exercise
 * [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - little abstract apps to explore
 * [Testers Playground](http://testersplayground.herokuapp.com/) - challenges for testers
+
 
 ## Community
 
