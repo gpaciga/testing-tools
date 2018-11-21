@@ -9,9 +9,9 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 
 * [Requestly](http://www.requestly.in) - manipulate network calls
 * [HTML code sniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
-* [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/)
-* [a11y.css](https://ffoodd.github.io/a11y.css/)
 * [Colour contrast checker](https://webaim.org/resources/contrastchecker/) - for specific colour combos
+* [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - bookmarklet for highlighting accessibility errors
+* [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) - bookmarklet for analyzing accessibility
 
 
 ### Chrome extensions
