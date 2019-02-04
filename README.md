@@ -10,7 +10,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Requestly](http://www.requestly.in) - manipulate network calls
 * [HTML code sniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Colour contrast checker](https://webaim.org/resources/contrastchecker/) - for specific colour combos
-* [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - bookmarklet for highlighting accessibility errors
+* [a11y.css](https://ffoodd.github.io/a11y.css/) and [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - bookmarklets for highlighting accessibility errors
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) - bookmarklet for analyzing accessibility
 
 
@@ -40,7 +40,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
 * [Locust](https://locust.io/) - python based performance testing / load testing
 * [Backstop.js](https://github.com/garris/BackstopJS) - visual regression tests
-
+  * cf. [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
 
 ## Analysis tools / visualizations
 
@@ -74,6 +74,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 ## Documentation tools
 
 * [Swagger](https://swagger.io/) - tools for API documentation
+* [Swagger2 to Postman](https://github.com/postmanlabs/swagger2-to-postman) - convert Swagger docs to Postman collections
 * [JSONSchema.net](https://jsonschema.net/#/editor) - JSON schema creator/editor
 * [Text2MindMap](https://tobloef.com/text2mindmap/) - create mind maps from plain text
 * [PlantUML](http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000) - draw network/class relationship diagrams
@@ -87,6 +88,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 
 ## Test ideas
 
+* [awesome-falsehoods](https://github.com/kdeldycke/awesome-falsehood)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
 * [TestSphere](https://www.ministryoftesting.com/dojo/series/testsphere)
 
