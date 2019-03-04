@@ -110,7 +110,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 ## Other references
 
 * [Free Learning Resources for Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
-* [Test Automation Pattersn Wiki](https://testautomationpatterns.org)
+* [Test Automation Patterns Wiki](https://testautomationpatterns.org)
 * [Testing Guides](https://github.com/ckenst/testing-guides)
 * [Software Testing Conferences](https://testingconferences.org/)
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
