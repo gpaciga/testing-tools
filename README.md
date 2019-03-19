@@ -16,6 +16,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 
 ### Chrome extensions
 
+* [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp?hl=en) - view responsive layouts at multiple sizes at once
 * [JSON formatter](https://github.com/callumlocke/json-formatter) - automatically format JSON
 * [Edit This Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - view and manipulate cookies
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Chrome extension for changing proxy settings quickly
