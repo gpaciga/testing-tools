@@ -46,6 +46,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 ## Analysis tools / visualizations
 
 * [Regexper](https://regexper.com/) - visualize regular expressions
+* [Regex Tester](https://www.regextester.com/) - quick way to test regular expressions
 
 
 ## Command line
