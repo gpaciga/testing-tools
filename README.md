@@ -103,6 +103,10 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [Testers Playground](http://testersplayground.herokuapp.com/) - challenges for testers
 
 
+## How-to articles
+
+* [https://localhost](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec) - set up ssl on localhost
+
 ## Community
 
 * [Ministry of Testing Club](https://club.ministryoftesting.com/) - forum for testers
