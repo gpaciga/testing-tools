@@ -101,6 +101,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - refactoring exercise
 * [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - little abstract apps to explore
 * [Testers Playground](http://testersplayground.herokuapp.com/) - challenges for testers
+* [The Internet](https://the-internet.herokuapp.com/) - examples of all kinds of typical UI components on the web, good for experimenting with automation
 
 
 ## How-to articles
