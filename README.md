@@ -21,10 +21,12 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Edit This Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - view and manipulate cookies
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Chrome extension for changing proxy settings quickly
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse) - built into Chrome Dev Tools
-* [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Chrome extension for checking accessibility
-* [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Chrome extension for checking accessibility (good to have more than one, they flag different things!)
-* [Colour Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll) - filters rendered page
-* [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg) - filter to simulate colour blindness of different types
+* Accessibility tools
+  * [Accessibility Insights](https://accessibilityinsights.io/en/) - several user-friendly a11y checks, visualizations, and a thorough walkthrough for assessing apps
+  * [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) - Chrome extension for checking accessibility
+  * [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) - Chrome extension for checking accessibility (good to have more than one, they flag different things!)
+  * [Colour Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll) - filters rendered page
+  * [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg) - filter to simulate colour blindness of different types
 
 
 ## APIs / other networking
@@ -42,6 +44,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Locust](https://locust.io/) - python based performance testing / load testing
 * [Backstop.js](https://github.com/garris/BackstopJS) - visual regression tests
   * cf. [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
+
 
 ## Analysis tools / visualizations
 
@@ -63,6 +66,7 @@ Bread and butter of working on the command line, so much so that I forget I ever
 * tail - print the last lines of a file, with `-f` it watches for new lines
 * curl - get URLs
 * [jq](https://stedolan.github.io/jq/) - parse and manipulate JSON files
+* [explainshell](https://explainshell.com/) - get help for what a given command does
 
 
 ## Language-specific
@@ -108,6 +112,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 ## How-to articles
 
 * [https://localhost](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec) - set up ssl on localhost
+
 
 ## Community
 
