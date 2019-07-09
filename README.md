@@ -83,7 +83,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [Swagger2 to Postman](https://github.com/postmanlabs/swagger2-to-postman) - convert Swagger docs to Postman collections
 * [JSONSchema.net](https://jsonschema.net/#/editor) - JSON schema creator/editor
 * [Text2MindMap](https://tobloef.com/text2mindmap/) - create mind maps from plain text
-* [PlantUML](http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000) - draw network/class relationship diagrams
+* [PlantText](https://www.planttext.com/) - draw network/class relationship diagrams from plain text, with lots of examples
 * [Hemingway](http://www.hemingwayapp.com/) - check if writing can be improved
 * [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free) - free font for icons
 * [Allure](http://allure.qatools.ru/) - pretty reports for test output
