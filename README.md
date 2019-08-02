@@ -50,6 +50,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 
 * [Regexper](https://regexper.com/) - visualize regular expressions
 * [Regex Tester](https://www.regextester.com/) - quick way to test regular expressions
+* [Repl.it](https://repl.it/languages) - run, test, and share code snippets in most popular languages
 
 
 ## Command line
