@@ -84,8 +84,9 @@ Just look for the `awesome-<language>` repo with the most stars on github.
   * [Swagger](https://swagger.io/) - tools for API documentation
   * [Swagger2 to Postman](https://github.com/postmanlabs/swagger2-to-postman) - convert Swagger docs to Postman collections
   * [JSONSchema.net](https://jsonschema.net/#/editor) - JSON schema creator/editor
-* Drawing
+* Drawing / Mapping / Diagramming
   * [Text2MindMap](https://tobloef.com/text2mindmap/) - create mind maps from plain text
+  * [Mindomo](https://www.mindomo.com) - shareable mindmaps with simple interface, can import/export plain text from the above tool
   * [code2flow](https://code2flow.com/app) - draw flow charts from pseudocode
   * [PlantText](https://www.planttext.com/) - draw network/class relationship diagrams from plain text, with lots of examples
 * Writing
