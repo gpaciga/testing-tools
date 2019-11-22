@@ -99,6 +99,12 @@ Just look for the `awesome-<language>` repo with the most stars on github.
   * [Trello](https://trello.com) - task manager
 
 
+## Collaboration tools
+
+* [WebWhiteboard](https://www.webwhiteboard.com/) - virtual whiteboard, good for remote sessions
+* [Slido](https://www.sli.do/) - Q&A platform with upvoting, could be used for remote lean coffee
+
+
 ## Test ideas
 
 * [awesome-falsehoods](https://github.com/kdeldycke/awesome-falsehood)
