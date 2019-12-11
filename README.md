@@ -35,6 +35,8 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Postman](https://www.getpostman.com/)
 * [Request mapper](http://requestmap.webperf.tools/) - visualize requests originating from a site
 * [htaccess tester](https://htaccess.madewithlove.be/)
+* [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) - webpage performance metrics from Google
+* [WebPageTest.org](https://www.webpagetest.org/) - performance tests from worldwide locations and real devices
 
 
 ## Misc automation tools
