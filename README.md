@@ -13,7 +13,9 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Viz Palette](https://projects.susielu.com/viz-palette) - evaluate colour schemes against different vision types
 * [a11y.css](https://ffoodd.github.io/a11y.css/) and [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - bookmarklets for highlighting accessibility errors
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) - bookmarklet for analyzing accessibility
-
+* [Backstop.js](https://github.com/garris/BackstopJS) - visual regression tests
+  * cf. [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
+* [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
 
 ### Chrome extensions
 
@@ -29,7 +31,6 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
   * [Colour Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll) - filters rendered page
   * [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg) - filter to simulate colour blindness of different types
 
-
 ## APIs / other networking
 
 * [Charles Proxy](https://www.charlesproxy.com/) - analyze network traffic outside a browser
@@ -38,23 +39,19 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [htaccess tester](https://htaccess.madewithlove.be/)
 * [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) - webpage performance metrics from Google
 * [WebPageTest.org](https://www.webpagetest.org/) - performance tests from worldwide locations and real devices
-
-
-## Misc automation tools
-
 * [Pact](https://docs.pact.io/) - contract testing
-* [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
-* [Locust](https://locust.io/) - python based performance testing / load testing
-* [Backstop.js](https://github.com/garris/BackstopJS) - visual regression tests
-  * cf. [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
 
+## Performance / Load
+
+* [Locust](https://locust.io/) - python based performance testing / load testing
+* [k6](https://k6.io/) - performance tests written in javascript ([good overview here](https://www.mariedrake.com/post/shifting-performance-testing-to-the-left-with-k6))
+* [Lighthouse-CI](https://github.com/GoogleChrome/lighthouse-ci) - Google's performance scans for CI
 
 ## Analysis tools / visualizations
 
 * [Regexper](https://regexper.com/) - visualize regular expressions
 * [Regex Tester](https://www.regextester.com/) - quick way to test regular expressions
 * [Repl.it](https://repl.it/languages) - run, test, and share code snippets in most popular languages
-
 
 ## Command line
 
