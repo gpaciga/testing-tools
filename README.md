@@ -144,6 +144,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 
 ## Other references
 
+* [Ministry of Testing tools directory](https://www.ministryoftesting.com/directories/tools)
 * [Free Learning Resources for Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
 * [Test Automation Patterns Wiki](https://testautomationpatterns.org)
 * [Testing Guides](https://github.com/ckenst/testing-guides)
