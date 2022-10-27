@@ -47,6 +47,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [k6](https://k6.io/) - performance tests written in javascript ([good overview here](https://www.mariedrake.com/post/shifting-performance-testing-to-the-left-with-k6))
 * [Lighthouse-CI](https://github.com/GoogleChrome/lighthouse-ci) - Google's performance scans for CI
 * [ab](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache tool for benchmarking HTTP server performance
+  * [curl2ab](https://curl2ab.ahivert.dev/) - translate from a `curl` command to an `ab` load test command
 
 ## Analysis tools / visualizations
 
