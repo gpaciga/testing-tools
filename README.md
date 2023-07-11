@@ -153,4 +153,5 @@ Just look for the `awesome-<language>` repo with the most stars on github.
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
 * [The Missing Semester of your CS Education (MIT)](https://missing.csail.mit.edu/)
 * [XPath cheatsheet](https://devhints.io/xpath#class-check)
+* [Standout](https://leanpub.com/standout) - book on getting employment as a tester
 
