@@ -9,13 +9,17 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 
 * [Requestly](http://www.requestly.in) - manipulate network calls
 * [HTML code sniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
-* [Colour contrast checker](https://webaim.org/resources/contrastchecker/) - for specific colour combos
-* [Viz Palette](https://projects.susielu.com/viz-palette) - evaluate colour schemes against different vision types
-* [a11y.css](https://ffoodd.github.io/a11y.css/) and [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - bookmarklets for highlighting accessibility errors
-* [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) - bookmarklet for analyzing accessibility
+* Colours
+  * [Colour contrast checker](https://webaim.org/resources/contrastchecker/) - for specific colour combos
+  * [Viz Palette](https://projects.susielu.com/viz-palette) - evaluate colour schemes against different vision types
+  * [Coloring for Colorblindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) - another visualizer for different vision types with example palettes
+* Accessibility
+  * [a11y.css](https://ffoodd.github.io/a11y.css/) and [revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - bookmarklets for highlighting accessibility errors
+  * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) - bookmarklet for analyzing accessibility
+  * [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
 * [Backstop.js](https://github.com/garris/BackstopJS) - visual regression tests
   * cf. [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
-* [pa11y](https://github.com/pa11y/pa11y-ci) - accessibility test runner
+
 
 ### Chrome extensions
 
