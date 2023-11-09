@@ -101,6 +101,7 @@ Just look for the `awesome-<language>` repo with the most stars on github.
   * [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free) - free font for icons
 * Note taking and reporting
   * [Allure](http://allure.qatools.ru/) - pretty reports for test output
+  * [Testomatio](https://testomat.io/) Modern TCMS allows sync of manual and automated tests in one place. Allure, TestRail alternative.
   * [TestNote.io](http://testnote.io/) - note taking tool
   * [TestBuddy](https://testbuddy.co/features) - note taking tool
   * [Trello](https://trello.com) - task manager
