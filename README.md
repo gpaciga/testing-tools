@@ -52,6 +52,7 @@ The focus is on technical tools, but not exclusively. I'm not trying to capture 
 * [Lighthouse-CI](https://github.com/GoogleChrome/lighthouse-ci) - Google's performance scans for CI
 * [ab](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache tool for benchmarking HTTP server performance
   * [curl2ab](https://curl2ab.ahivert.dev/) - translate from a `curl` command to an `ab` load test command
+* [hey](https://github.com/rakyll/hey) - a very quick and lightweight way to put load on a web app with a single command
 
 ## Analysis tools / visualizations
 
